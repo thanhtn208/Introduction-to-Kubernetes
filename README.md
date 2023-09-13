@@ -8,7 +8,7 @@
     <img src="Prometheus/images/logo.svg" alt="Logo" width="200" height="200">
   </a>
 
-<h3 align="center">Introduction Kubernetes</h3>
+<h3 align="center">Introduction to Kubernetes</h3>
 
   <p align="center">
     Become an HERO in Kubernetes from scratch!
