@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/thanhtn208/Introduction-Kubernetes/tree/main/Operators">
+  <a href="https://github.com/thanhtn208/Introduction-to-Kubernetes/tree/main/Operators">
     <img src="images/logo.png" alt="Logo" width="150" height="150">
   </a>
 
@@ -592,7 +592,7 @@ Prometheus has three main components, and we have to set up these three.
 
 <div id="Demo-Setup-Prometheus-Monitoring-Setup-with-Helm-Chart">
 
-**Note:** If you are unfamiliar with Helm, I have a [Helm tutorial](https://github.com/thanhtn208/Introduction-Kubernetes/tree/main/Helm)
+**Note:** If you are unfamiliar with Helm, I have a [Helm tutorial](https://github.com/thanhtn208/Introduction-to-Kubernetes/tree/main/Helm)
 about it.
 
 Be sure to check it out, but essentially Helm is a package manager for Kubernetes.

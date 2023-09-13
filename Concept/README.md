@@ -1,11 +1,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/thanhtn208/Introduction-Kubernetes/tree/main/Concept">
+  <a href="https://github.com/thanhtn208/Introduction-to-Kubernetes/tree/main/Concept">
     <img src="images/k8s-logo.png" alt="Logo" width="150" height="150">
   </a>
 
-<h3 align="center">Introduction Kubernetes</h3>
+<h3 align="center">Introduction to Kubernetes</h3>
 
   <p align="center">
     The code review and content of Introduction Kubernetes course...
@@ -2401,7 +2401,7 @@ We deploy our Ingress Controller via Helm charts...
 What is Helm?
 
 * Helm is a package manager for Kubernetes.
-* I have a complete [Helm tutorial](https://github.com/thanhtn208/Introduction-Kubernetes/tree/main/Helm) as well.
+* I have a complete [Helm tutorial](https://github.com/thanhtn208/Introduction-to-Kubernetes/tree/main/Helm) as well.
 * But you can only know some about Helm to complete this repo.
 * So, don't worry if you are not familiar with Helm.
 
@@ -2645,13 +2645,13 @@ In this section, we will learn about it.
 
 We need to install cert-manager to do the work with Kubernetes to request a certificate and respond to the challenge to validate it. We can use Helm or plain Kubernetes manifests to install cert-manager.
 
-We will use Helm to install it. I have a [Helm tutorial](https://github.com/thanhtn208/Introduction-Kubernetes/tree/main/Helm), be sure to check it too.
+We will use Helm to install it. I have a [Helm tutorial](https://github.com/thanhtn208/Introduction-to-Kubernetes/tree/main/Helm), be sure to check it too.
 
 ---
 
 Now let's talk a little more about cert-manager.
 
-Cert-manager mainly uses two different custom Kubernetes resources - known as CRDs - to configure and control how it operates and store state. These resources are Issuers and Certificates. (I have a [tutorial](https://github.com/thanhtn208/Introduction-Kubernetes/tree/main/Operators) about K8s CRDs and Operators. Check that as well)
+Cert-manager mainly uses two different custom Kubernetes resources - known as CRDs - to configure and control how it operates and store state. These resources are Issuers and Certificates. (I have a [tutorial](https://github.com/thanhtn208/Introduction-to-Kubernetes/tree/main/Operators) about K8s CRDs and Operators. Check that as well)
 
 That's enough to start using cert-manager but to understand the certificate concept, check the [official documentation](https://cert-manager.io/docs/concepts/certificate).
 

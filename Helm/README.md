@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/thanhtn208/Introduction-Kubernetes/tree/main/Helm">
+  <a href="https://github.com/thanhtn208/Introduction-to-Kubernetes/tree/main/Helm">
     <img src="images/logo.svg" alt="Logo" width="150" height="150">
   </a>
 
